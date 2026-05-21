@@ -1,3 +1,7 @@
+**************************
+Introduction
+**************************
+
 These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultaion with the following funders:
 
 * Netherlands - Ministry of Foreign Affairs
