@@ -27,6 +27,7 @@ This documentation site outlines what to publish, how to structure your data, an
    :caption: Publishing
 
    organisation_data
+   activity_data
 
 .. toctree::
    :hidden:
