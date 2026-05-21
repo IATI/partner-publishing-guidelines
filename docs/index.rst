@@ -24,6 +24,14 @@ This documentation site outlines what to publish, how to structure your data, an
    :hidden:
    :titlesonly:
    :maxdepth: 3
-   :caption: Data Linking
+   :caption: Publishing
+
+   organisation_data
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
+   :caption: FAQs
 
    linking_activity_to_funder
