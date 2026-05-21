@@ -1,16 +1,12 @@
 ******************
-Organisation Data
+Activity Data
 ******************
 
-The IATI organisation file is used to describe your organisation. 
+The following table describes the elements to be published in the IATI activity file. 
 
-You can include forward-looking budget information for your organisation, as well as recipient institutions or countries. You can also provide links to relevant public documents that are not related to one or more specific activities. 
-
-It is expected that every organisation publishing IATI data should include one organisation file, which is updated annually. 
-
-The table below highlights the minimum requirements for your funder, however if you wish to add more to your organisation file, please do.
+For the formal specification, please refer to the `IATI Standard activity reference pages <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_.
 
 .. csv-table::
-    :file: tables/org_file_requirements.csv
+    :file: tables/activity_file_requirements.csv
     :widths: 30,50,20
     :header-rows: 1
