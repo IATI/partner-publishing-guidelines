@@ -1,0 +1,10 @@
+Element,Description,Field required?
+`Organisation Identifier <https://iatistandard.org/en/guidance/publishing-data/registering-and-managing-your-organisation-account/how-to-create-your-iati-organisation-identifier/>`_,,Mandatory
+Name,,Mandatory
+Reporting organisation,,Mandatory
+`Total Budget <https://iatistandard.org/en/guidance/standard-guidance/organisation-budgets-spend/>`_,"Yearly forward-looking information on the whole organisation or agency budget, covering current and future years where known",Recommended
+Recipient Organisation Budget,,Optional
+Recipient Country Budget,,Optional
+Recipient Region Budget,,Optional
+Total Expenditure,,Optional
+`Document Link <https://iatistandard.org/en/guidance/standard-guidance/related-documents/>`_,,Recommended
