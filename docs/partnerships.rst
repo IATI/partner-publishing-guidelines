@@ -1,12 +1,7 @@
 ******************
-Activity Data
+3) Partnerships
 ******************
 
-The following table describes the elements to be published in the IATI activity file. 
+Organisation A funds Organisation B,as lead organisation of a Partnership with Organisation C.
 
-For the formal specification, please refer to the `IATI Standard activity reference pages <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_.
-
-.. csv-table::
-    :file: tables/activity_file_requirements.csv
-    :widths: 30,50,20
-    :header-rows: 1
+As part of Activity B, Organisation B starts Activities B1 and B2. As part of Activity B, Organisation B also transfers funds to Organisation C for its role in the Partnership.
