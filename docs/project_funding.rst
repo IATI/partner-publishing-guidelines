@@ -1,7 +1,10 @@
+.. _`project_funding`:
 ********************
 1) Project funding
 ********************
 
-Definition: an organisation is funded to carry out a specific activity. This activity leads to direct outflows from the organisation.
+Project funding is provided to an organisation to carry out a specific activity, resulting in direct expenditure by the organisation.
 
-**Direct project funding**: Organisation A funds Organisation B to carry out Activity B.
+[add examples]
+
+
