@@ -1,7 +1,8 @@
+.. _`partnerships`:
 ******************
 3) Partnerships
 ******************
 
-Organisation A funds Organisation B, as lead organisation of a Partnership with Organisation C.
+A partnership is when your organisation works in a network or strategic alliance. Funding is generally received by one lead organisation and divided amongst partners on a programmatic level. Each member of the alliance or network then manages its own activities.
 
-As part of Activity B, Organisation B starts Activities B1 and B2. As part of Activity B, Organisation B also transfers funds to Organisation C for its role in the Partnership.
+[add examples]
