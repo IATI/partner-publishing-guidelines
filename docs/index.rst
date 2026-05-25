@@ -31,10 +31,6 @@ This documentation site outlines what to publish, how to structure your data, an
    :caption: Structuring your data
 
    activity_structure
-   project_funding
-   programme_funding
-   partnerships
-   core_funding
 
 
 .. toctree::
