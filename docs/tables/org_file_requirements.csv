@@ -1,12 +1,10 @@
-IATI Element,Description,Field required?
-`Organisation Identifier <https://iatistandard.org/en/guidance/publishing-data/registering-and-managing-your-organisation-account/how-to-create-your-iati-organisation-identifier/>`_,,Mandatory
-`Name <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/name/>`_,,Mandatory
-`Reporting organisation <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`_,,Mandatory
-`Total Budget <https://iatistandard.org/en/guidance/standard-guidance/organisation-budgets-spend/>`_,"Yearly forward-looking information on the whole organisation or agency budget, covering current and future years where known.",Recommended
-`Recipient Organisation Budget <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/recipient-org-budget/>`_,The annual amounts your organisation plans to disburse to each of your partner organisations.,Optional
-`Recipient Country Budget <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/recipient-country-budget/>`_,Yearly forward-looking budget for each country worked in by the reporting organisation,Optional
-`Recipient Region Budget <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/recipient-region-budget/>`_,Yearly forward-looking budget for each region worked in by the reporting organisation,Optional
-`Total Expenditure <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/total-expenditure/>`_,,Optional
-`Document Link <https://iatistandard.org/en/guidance/standard-guidance/related-documents/>`_,"Documents relating to the organisation
-
-This includes: Annual reports that may contain the above information, strategic plans, exclusion policies, other documents that provide relevant information on the organisation and its scope of work.",Recommended
+IATI Element,Field required?,Comments
+`Organisation Identifier <https://iatistandard.org/en/guidance/publishing-data/registering-and-managing-your-organisation-account/how-to-create-your-iati-organisation-identifier/>`_,Mandatory,
+`Organisation Name <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/name/>`_,Mandatory,
+`Reporting Organisation <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`_,Mandatory,
+`Total Budget <https://iatistandard.org/en/guidance/standard-guidance/organisation-budgets-spend/>`_,Recommended,"Yearly forward-looking information on the whole organisation or agency budget, covering current and future years where known."
+`Document Link <https://iatistandard.org/en/guidance/standard-guidance/related-documents/>`_,Recommended,"This may include annual reports, strategic plans, data exclusion policies, or other documents relevant to the organisation and its work."
+`Recipient Organisation Budget <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/recipient-org-budget/>`_,Optional,The annual amounts your organisation plans to disburse to each of your partner organisations.
+`Recipient Country Budget <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/recipient-country-budget/>`_,Optional,Yearly forward-looking budget for each country worked in by the reporting organisation
+`Recipient Region Budget <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/recipient-region-budget/>`_,Optional,Yearly forward-looking budget for each region worked in by the reporting organisation
+`Total Expenditure <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/total-expenditure/>`_,Optional,
