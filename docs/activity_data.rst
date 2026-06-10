@@ -1,3 +1,6 @@
+.. caution::
+    These guidelines are draft and not yet finalised. This site is for discussion purposes only.
+
 ******************
 Activity Data
 ******************

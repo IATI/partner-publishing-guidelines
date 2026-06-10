@@ -1,19 +1,19 @@
+.. caution::
+    These guidelines are draft and not yet finalised. This site is for discussion purposes only.
+
 **************************
 Introduction
 **************************
 
-.. caution::
-    These guidelines are in draft and are not yet finalised. This site is provided for display purposes.
-
-These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultation with the following funders:
+These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultation with the following organisations:
 
 * Netherlands - Ministry of Foreign Affairs
 * United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
 * Belgium - Ministry of Foreign Affairs
-* Denmark - International Development Agency (Danida)
+* Denmark - Ministry of Foreign Affairs (Danida)
 * Sweden - International Development Cooperation Agency (Sida)
 
-This documentation site outlines what to publish, how to structure your data, and where you can find further resources.
+These guidelines help you understand what information to publish, how to organise your data, and where to find answers to common questions.
 
 .. toctree::
     :hidden:
@@ -47,6 +47,17 @@ This documentation site outlines what to publish, how to structure your data, an
    :hidden:
    :titlesonly:
    :maxdepth: 3
+   :caption: Donor-specific guidance
+
+   funder_specific_guidance
+
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
    :caption: Common questions
 
    linking_activity_to_funder
+   aggregating_transactions
+   secondary_reporting
