@@ -49,7 +49,7 @@ These guidelines help you understand what information to publish, how to organis
    :maxdepth: 3
    :caption: Funder specifics
 
-   funder_specific_guidance
+   funder_specific_info
 
 
 .. toctree::
