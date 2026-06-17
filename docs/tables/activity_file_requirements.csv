@@ -21,8 +21,8 @@ Regions can be specified instead of, or as well as, individual countries if need
 
 Expenditure, Incoming and Outgoing Commitments to include if applicable."
 `Contact Info <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/contact-info/>`_,Mandatory,Contact address and email for the reporting organisation. This can be a generic enquiry email address.
+`Results <https://iatistandard.org/en/guidance/standard-guidance/results/>`_,Varies by funder (`see information by funder <https://iati-downstream-partner-publishing-guidelines.readthedocs-hosted.com/en/latest/funder_specific_info/>`_),Data on results and indicators of the project. This can include links to published documents.
 `Policy Marker <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/policy-marker/>`_,Recommended,
-`Results <https://iatistandard.org/en/guidance/standard-guidance/results/>`_,Varies by funder,Data on results and indicators of the project.
 `Location <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/location/>`_,Optional,Location of the activity or its beneficiaries on a sub-national level.
 `Documents <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/document-link/>`_,Optional,"Documents relating to the activity including project proposal, Theory of Change, reports, pictures, project updates etc."
 `Tag <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/tag/>`_,Optional,
