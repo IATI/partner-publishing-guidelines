@@ -1,6 +1,6 @@
-============================================
-IATI Downstream Partner Publishing Guidance
-============================================
+==================================
+IATI Partner Publishing Guidelines
+==================================
 
 Building the Documentation
 ==========================
