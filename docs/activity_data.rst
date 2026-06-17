@@ -11,5 +11,5 @@ For the formal specification, please refer to the `IATI Standard activity refere
 
 .. csv-table::
     :file: tables/activity_file_requirements.csv
-    :widths: 30,20, 50
+    :widths: 30,15,55
     :header-rows: 1
