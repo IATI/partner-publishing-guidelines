@@ -1,34 +1,21 @@
-.. caution::
-    These guidelines are draft and not yet finalised. This site is for discussion purposes only.
+*******************
+How to publish data
+*******************
 
-***************************
-Funder-specific information
-***************************
+Publishing IATI data involves the following steps:
 
-This page covers additional requirements or guidance, specific to individual funders.
+- Registering your organisation with IATI
+- Preparing your data for initial publication
+- Keeping your data updated
 
-[information to be added if needed]
-
-Belgium - Ministry of Foreign Affairs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You can find more information in our `publishing guidance <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/>`_.
 
 
-Denmark - Ministry of Foreign Affairs (Danida)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-For Strategic Partnership Agreements (SPAs), it is recommended to use a parent-child activity hierarchy as described for :ref:`programme funding <programme_funding>`.
+Useful links
+^^^^^^^^^^^^
+* `IATI Account help documentation <https://docs.account.iatistandard.org/en/latest/>`_ - you will be using IATI Account to register with IATI and manage information about your organisation.
 
-* Level 1 (parent activity) - this is the MFA agreement itself, containing narrative information about the nature and purpose of the organisation's SPA.
-* Level 2 (child activity) - the activities funded by the organistion as part of their SPA. These should be linked back to the parent activity, and include any contributions from third parties.
+* `IATI Publisher help documentation <https://docs.publisher.iatistandard.org/en/latest/>`_ - if your organisation intends to publish fewer than 100 IATI activities, you can use the free IATI Publisher tool to prepare and publish your data. Third-party publishing tools and services are also available.
 
-
-Netherlands - Ministry of Foreign Affairs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-Sweden - International Development Cooperation Agency (Sida)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+.. tip:: 
+   `Contact us <https://iatistandard.org/en/guidance/get-support/>`_ with any questions related to data publishing.
