@@ -39,6 +39,7 @@ These guidelines help you understand what information to publish, how to organis
    :maxdepth: 3
    :caption: What to publish
 
+   how_to_publish
    organisation_data
    activity_data
 
