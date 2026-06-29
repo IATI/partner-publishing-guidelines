@@ -7,7 +7,7 @@ Programme funding applies where activities are divided into smaller sub-activiti
 
 This model can also cover situations where direct co-funding is received at the child level, as well as basket or pooled funding arrangements.
 
-Example 1 - Programme-project structure
+Scenario 1 - Programme-project structure
 ----------------------------------------------
 
 - Organisation 1 funds Organisation 2 to carry out Activity B (a programme).
@@ -18,7 +18,28 @@ Example 1 - Programme-project structure
     :align: center
     :alt: diagram of programme funding
 
-Example 2 - Programme funding with multiple funders
+**Example**: DanChurchAid is an international NGO that uses a parent-child hierarchy in their activity data. In this example, the Danish Ministry of Foreign Affairs is organisation 1 (the funder) and DanChurchAid is organisation 2 (the implementing partner).
+
+* Activity B: `Danida Strategic Partnership 2022-2026 HUM <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DK-CVR-36980214-DANIDA-SPA-2022-2025-HUM>`_
+* Activity B1: `2024 Zambia Drought Project <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DK-CVR-36980214-1010393-06>`_
+
+
+
+Scenario 2 - Programme funding with multiple implementing organisations
+-----------------------------------------------------------------------
+
+- Organisation 1 funds Organisation 2 to carry out Activity B (a programme).
+- As part of Activity B, Organisation 2 starts Activities B1 and B2 (projects within the programme).
+- As part of Activity B2, Organisation 2 funds Organisation 3 to carry out Activity C.
+
+.. figure:: images/programme_funding_multiple_orgs.jpg
+    :width: 100 %
+    :align: center
+    :alt: diagram of programme funding with multiple implementing organisations
+
+
+
+Scenario 3 - Programme funding with multiple funders
 ---------------------------------------------------
 
 - Organisation 1 funds Organisation 2 to carry out Activity B (a programme).
@@ -29,16 +50,3 @@ Example 2 - Programme funding with multiple funders
     :width: 100 %
     :align: center
     :alt: diagram of programme funding with multiple funders
-
-Example 3 - Programme funding with co-funding for a specific project
---------------------------------------------------------------------
-
-- Organisation 1 funds Organisation 2 to carry out Activity B (a programme).
-- As part of Activity B, Organisation 2 starts Activities B1 and B2 (projects within the programme).
-- Organisation 3 co-funds Activity B2 (a specific project within the programme).
-
-.. figure:: images/programme_funding_project_cofunding.jpg
-    :width: 100 %
-    :align: center
-    :alt: diagram of programme funding with co-funding for a specific project
-
