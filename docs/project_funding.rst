@@ -29,8 +29,10 @@ Scenario 2 - Project funding with multiple implementing organisations
     :align: center
     :alt: diagram of project funding with multiple tiers of implementing organisation
 
-**Example:** Carbon Trust is a not-for-profit that receives UK government funding. It passes some of this funding to implementing partners — such as the University of Cape Town — and reports these disbursements in its activity data.
+.. topic:: Example
 
-* Activity A: `TEA - Research Programme Delivery Consortium (RPDC) via Carbon Trust <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-1-204867-113>`_ (UK FCDO)
-* Activity B: `Transforming Energy Access (TEA) Platform <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-COH-06274284-GB-COH-06274284-TEA>`_ (Carbon Trust)
-* Activity C: `Transforming Energy Access - Learning Partnership <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XI-GRID-grid.7836.a-404642>`_ (University of Cape Town)
+   Carbon Trust is a not-for-profit that receives UK government funding. It passes some of this funding to implementing partners — such as the University of Cape Town — and reports        these disbursements in its activity data.
+
+   - Activity A: `TEA - Research Programme Delivery Consortium (RPDC) via Carbon Trust <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-1-204867-113>`_ (UK FCDO)
+   - Activity B: `Transforming Energy Access (TEA) Platform <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-COH-06274284-GB-COH-06274284-TEA>`_ (Carbon Trust)
+   - Activity C: `Transforming Energy Access - Learning Partnership <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XI-GRID-grid.7836.a-404642>`_ (University of Cape Town)
