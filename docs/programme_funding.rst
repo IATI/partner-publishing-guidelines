@@ -18,13 +18,16 @@ Scenario 1 - Programme-project structure
     :align: center
     :alt: diagram of programme funding
 
-**Example**: DanChurchAid is an international NGO that uses a parent-child hierarchy in their activity data. In this example, the Danish Ministry of Foreign Affairs is organisation 1 (the funder) and DanChurchAid is organisation 2 (the implementing partner).
+.. topic:: Example
+   
+   DanChurchAid is an international NGO that uses a parent-child hierarchy in their activity data. In this example, the Danish Ministry of Foreign Affairs is organisation 1 (the 
+   funder) and DanChurchAid is organisation 2 (the implementing partner).
 
-* Activity A: `Folkekirkens Nødhjælp SPA 2022-2026 HUM <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-3-1-286697-35436>`_ (Denmark MFA)
-* Activity B: `Danida Strategic Partnership 2022-2026 HUM <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DK-CVR-36980214-DANIDA-SPA-2022-2025-HUM>`_ (DanChurchAid)
-* Activity B1: `2024 Zambia Drought Project <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DK-CVR-36980214-1010393-06>`_ (DanChurchAid)
+   - Activity A: `Folkekirkens Nødhjælp SPA 2022-2026 HUM <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-3-1-286697-35436>`_ (Denmark MFA)
+   - Activity B: `Danida Strategic Partnership 2022-2026 HUM <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DK-CVR-36980214-DANIDA-SPA-2022-2025-HUM>`_ (DanChurchAid)
+   - Activity B1: `2024 Zambia Drought Project <https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DK-CVR-36980214-1010393-06>`_ (DanChurchAid)
 
-There are many other child activities published in this example (activities B2, B3, etc.)
+   DanChurchAid publishes other child activities in this example (activities B2, B3, etc.)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
