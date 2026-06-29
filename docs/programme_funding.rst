@@ -26,6 +26,8 @@ Scenario 1 - Programme-project structure
 
 There are many other child activities published in this example (activities B2, B3, etc.)
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Scenario 2 - Programme funding with multiple implementing organisations
 -----------------------------------------------------------------------
@@ -40,6 +42,7 @@ Scenario 2 - Programme funding with multiple implementing organisations
     :alt: diagram of programme funding with multiple implementing organisations
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Scenario 3 - Programme funding with multiple funders
 ---------------------------------------------------
