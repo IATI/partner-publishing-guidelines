@@ -1,6 +1,6 @@
-*******************
-How to publish data
-*******************
+**********************
+How do I publish data?
+**********************
 
 Publishing IATI data involves the following steps:
 
