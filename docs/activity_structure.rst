@@ -5,7 +5,7 @@
 How do I structure my data?
 ***************************
 
-The IATI Standard uses the concept of 'activities', which can be defined in a way that makes sense for your organisation. Read more about `How to define an activity. <https://iatistandard.org/en/guidance/standard-overview/activity-information/activity-defined/>`_
+The IATI Standard uses the concept of 'activities', which can be defined in a way that makes sense for your organisation. `Read more about how to define an activity. <https://iatistandard.org/en/guidance/standard-overview/activity-information/activity-defined/>`_
 
 The four models below illustrate different types of relationships between donors and recipients of development and humanitarian funding.
 
