@@ -47,16 +47,19 @@ Checklist before you publish
 - My funder is listed under 'participating-org' with role = 1 (Funding)
 - Each incoming transaction includes a 'provider-org' with @provider-activity-id
 - My own organisation is listed under 'participating-org' (accountable or implementing role)
-- I've included my own activity identifier in 'receiver-org' on each incoming transaction
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Examples
----------
+Example
+--------
 
 In the example below, the UK Foreign, Commonwealth & Development Office is being referenced as the 'provider organisation' (i.e. funder). 
 
-Within an activity transaction, enter your funder's IATI organisation reference (e.g. "GB-GOV-1" for FCDO), provider activity ID (e.g. "GB-GOV-1-300001" - change the end number accordingly), organisation name and type.
+Within an activity transaction, enter the following data about your funder:
+- organisation reference (e.g. "GB-GOV-1" for FCDO)
+- provider activity id (e.g. "GB-GOV-1-300001")
+- organisation type (e.g. "10 - Government")
+- narrative (i.e. their name)
 
 .. figure:: images/iati_publisher_provider_activity_id.png
     :width: 100 %
