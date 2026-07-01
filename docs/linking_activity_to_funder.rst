@@ -26,9 +26,11 @@ Also list your organisation (with role = "Accountable" or "Implementing") and an
 
 .. topic:: 3) Add incoming fund or commitment transactions
    
-   Reference your funder's activity identifier in the 'provider-activity-id' element of each transaction.
+   Reference your funder's activity identifier as the 'provider-activity-id' within each transaction.
 
 Incoming Funds (code 1) = money already received. Incoming Commitment (code 11) = money promised but not yet transferred.
+
+'provider-activity-id' can be found within the 'provider-org' element of a transaction.
 
 
 .. topic:: 4) Link parent / sibling activities (if applicable)
