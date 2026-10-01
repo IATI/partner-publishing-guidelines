@@ -4,20 +4,13 @@ Introduction
 
 These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They help you understand what information to publish, how to organise your data, and where to find answers to common questions.
 
-.. topic:: Which organisations should use this site?
+These guidelines have been developed in consultation with the following funders:
 
-   These guidelines have been endorsed for use by partners of the following funders:
-
-   * Sweden - International Development Cooperation Agency (Sida)
-   * United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
-
-
-The funders listed below helped develop the guidelines, and this page will be updated once they've formally endorsed them:
-
-* Belgium - Ministry of Foreign Affairs
-* Denmark - Ministry of Foreign Affairs, Danida
+* Sweden - International Development Cooperation Agency (Sida)
+* United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
 * Netherlands - Ministry of Foreign Affairs
-
+* Denmark - Ministry of Foreign Affairs, Danida
+* Belgium - Ministry of Foreign Affairs
 
 | 
 
