@@ -5,5 +5,5 @@ Belgium - Ministry of Foreign Affairs
 
 .. note::
 
-  Belgium’s Ministry of Foreign Affairs produces IATI data for some of the organisations it funds. If your organisation is one of them, you don’t need to follow the publishing guidance on this site as the Ministry creates IATI data files about Belgian-funded activities on your behalf.
+  Belgium currently mandates IATI publishing by its partners only for a specific funding modality, namely the 5 year programs by Belgian accredited CSOs, with whom specific guidance in this regard is shared. For other Belgian partners and funding modalities, IATI publishing is not mandated.
 
